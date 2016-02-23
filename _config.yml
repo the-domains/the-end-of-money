@@ -1,0 +1,28 @@
+name: the end of money
+favicon: null
+layout_spectrum: 0.3281207513064146
+typography_spectrum: 0.6240438513923436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.15057667903602123
+  lightness: 0.6077877883799374
+  saturation: 0.8748502566013485
+  rhythmicContrast: 0.2562132163438946
+purpose: []
